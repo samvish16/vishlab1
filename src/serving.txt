@@ -41,6 +41,3 @@ I apologize for my previous response. Here's a simple HTML code that serves a cu
     </script>
 </body>
 </html>
-```
-
-Please note that this is a basic example. You need to replace `'custom-font.woff2'` and `'custom-font.woff'` with the actual file paths of your custom font files. Additionally, make sure to update the `<title>` and `<h1>` elements with appropriate content for your page.
